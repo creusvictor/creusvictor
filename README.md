@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hi! 👋 I'm Victor!
 
-<!--
-**creusvictor/creusvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **DevOps Engineer** passionate about technology and automation. My focus is on observability, container orchestration, and infrastructure as code. With solid experience in Elastic Stack and Kubernetes, I strive to create efficient and scalable solutions.
 
-Here are some ideas to get you started:
+## 🛠️ My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DevOps & Observability
+
+- **Elastic Stack Expert**
+- **Kubernetes (CKA)**
+- **ArgoCD**
+- **Jenkins**
+- **Ansible**
+- **Terraform**
+
+### Certifications
+
+- **Elastic Certified Engineer**
+- **Elastic Certified Observability Engineer**
+- **Elastic Certified Analyst**
+- **Certified Kubernetes Administrator (CKA)**
+
+## 🚀 Tech Skills
+
+- **Programming languages**: Bash, Python
+- **CI/CD Tools**: Jenkins, ArgoCD
+- **Container Orchestration**: Kubernetes, Docker
+- **Infrastructure as a Code**: Terraform, Ansible
+- **Observability**: Elastic Stack
+
+## 📫 Contact
+
+- **Email**: [victorcg98@gmail.com](mailto:victorcg98@gmail.com)
+- **LinkedIn**: [linkedin.com/in/victor-creus-gonzalez/](https://linkedin.com/in/victor-creus-gonzalez/en)
+- **GitHub**: [github.com/creusvictor](https://github.com/creusvictor)
+
+Thank you for visiting my profile! 🚀
