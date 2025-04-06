@@ -12,6 +12,7 @@ I am a **DevOps Engineer** passionate about technology and automation. My focus 
 - **Jenkins**
 - **Ansible**
 - **Terraform**
+- **Packer**
 
 ### Certifications
 
@@ -25,7 +26,7 @@ I am a **DevOps Engineer** passionate about technology and automation. My focus 
 - **Programming languages**: Bash, Python
 - **CI/CD Tools**: Jenkins, ArgoCD
 - **Container Orchestration**: Kubernetes, Docker
-- **Infrastructure as a Code**: Terraform, Ansible
+- **Infrastructure as a Code**: Terraform, Ansible, Packer
 - **Observability**: Elastic Stack
 
 ## 📫 Contact
