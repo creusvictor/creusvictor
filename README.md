@@ -13,6 +13,8 @@ I am a **DevOps Engineer** passionate about technology and automation. My focus 
 - **Ansible**
 - **Terraform**
 - **Packer**
+- **Opentelemetry**
+- **Grafana Stack**
 
 ### Certifications
 
@@ -27,7 +29,7 @@ I am a **DevOps Engineer** passionate about technology and automation. My focus 
 - **CI/CD Tools**: Jenkins, ArgoCD
 - **Container Orchestration**: Kubernetes, Docker
 - **Infrastructure as a Code**: Terraform, Ansible, Packer
-- **Observability**: Elastic Stack
+- **Observability**: Elastic Stack, Grafana Stack, Opentelemetry
 
 ## 📫 Contact
 
