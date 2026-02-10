@@ -34,6 +34,7 @@ I hold some of the most rigorous certifications in the industry, reflecting my e
 
 ### 📫 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Personal_Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://creusvictor.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-creus-gonzalez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcg98@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creusvictor)
