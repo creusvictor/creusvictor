@@ -34,10 +34,9 @@ I hold some of the most rigorous certifications in the industry, reflecting my e
 
 ### 📫 Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/victor-creus-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Creus" height="30" width="40" /></a>
-<a href="mailto:victorcg98@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="victorcg98@gmail.com" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-creus-gonzalez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcg98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creusvictor)
 
 ---
 
