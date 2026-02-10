@@ -1,40 +1,44 @@
-# ¡Hi! 👋 I'm Victor!
+# Hi there, I'm Victor (Creus) 👋 
 
-I am a **DevOps Engineer** passionate about technology and automation. My focus is on observability, container orchestration, and infrastructure as code. With solid experience in Elastic Stack and Kubernetes, I strive to create efficient and scalable solutions.
+### DevOps & Observability Engineer | Elastic Stack Expert | K8s Enthusiast
 
-## 🛠️ My skills
+I am a **DevOps Engineer** specializing in the design and implementation of large-scale observability and automation solutions. My focus is on transforming complex infrastructure into resilient and transparent systems using data-driven insights.
 
-### DevOps & Observability
+---
 
-- **Elastic Stack Expert**
-- **Kubernetes (CKA)**
-- **ArgoCD**
-- **Jenkins**
-- **Ansible**
-- **Terraform**
-- **Packer**
-- **Opentelemetry**
-- **Grafana Stack**
+### 🛠️ Tech Stack & Expertise
 
-### Certifications
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Metrics** | `Prometheus`, `Thanos`, `Zabbix`, `Grafana Mimir` |
+| **Logs & Analysis** | `Elastic Stack (Expert)`, `Loki` |
+| **Tracing (APM)** | `Elastic APM Server`, `Grafana Tempo`, `OpenTelemetry` |
+| **Infrastructure as Code** | `Terraform`, `Ansible`, `Packer` |
+| **Cloud Native** | `Kubernetes (CKA)`, `Docker`, `ArgoCD` |
+| **Scripting** | `Python`, `Bash` |
 
-- **Elastic Certified Engineer**
-- **Elastic Certified Observability Engineer**
-- **Elastic Certified Analyst**
-- **Certified Kubernetes Administrator (CKA)**
+---
 
-## 🚀 Tech Skills
+### 📜 Professional Certifications
 
-- **Programming languages**: Bash, Python
-- **CI/CD Tools**: Jenkins, ArgoCD
-- **Container Orchestration**: Kubernetes, Docker
-- **Infrastructure as a Code**: Terraform, Ansible, Packer
-- **Observability**: Elastic Stack, Grafana Stack, Opentelemetry
+I hold some of the most rigorous certifications in the industry, reflecting my expertise in the Elastic ecosystem and Kubernetes:
 
-## 📫 Contact
+* **The Elastic Triple Crown:**
+    * 🎓 **Elastic Certified Engineer**
+    * 🎓 **Elastic Certified Observability Engineer**
+    * 🎓 **Elastic Certified Analyst**
+* **Cloud Native:**
+    * ☸️ **Certified Kubernetes Administrator (CKA)**
 
-- **Email**: [victorcg98@gmail.com](mailto:victorcg98@gmail.com)
-- **LinkedIn**: [linkedin.com/in/victor-creus-gonzalez/](https://linkedin.com/in/victor-creus-gonzalez/en)
-- **GitHub**: [github.com/creusvictor](https://github.com/creusvictor)
+---
 
-Thank you for visiting my profile! 🚀
+### 📫 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/victor-creus-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Creus" height="30" width="40" /></a>
+<a href="mailto:victorcg98@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="victorcg98@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+
+*“If it isn't monitored, it doesn't exist.”*
